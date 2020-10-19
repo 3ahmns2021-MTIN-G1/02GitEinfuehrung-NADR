@@ -1,0 +1,8 @@
+git init - erstellen eines Repository
+git status- Anzeigen Status
+git add <Dateipfad> - Datei zur Staging Area hinzufügen
+git commit -m "Unsere Commit Message"-Neuen Speicherpunkt erstellen
+git log - History wird angezeigt
+
+git checkout <id> - Zurück Speicherpunkt
+git checkout master - Zurück aktueller Stand
