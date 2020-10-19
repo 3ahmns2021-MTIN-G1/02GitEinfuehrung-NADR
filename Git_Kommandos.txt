@@ -6,4 +6,4 @@ git log - History wird angezeigt
 
 git checkout <id> - Zurück Speicherpunkt
 git checkout master - Zurück aktueller Stand
-git pus     - in die Cloud
+git push     - Dateien in die Cloud
