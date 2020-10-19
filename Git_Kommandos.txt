@@ -7,3 +7,4 @@ git log - History wird angezeigt
 git checkout <id> - Zurück Speicherpunkt
 git checkout master - Zurück aktueller Stand
 git push     - Dateien in die Cloud
+git pull     - Ladet meine Cloudsachen auf Lokalen Rechner
